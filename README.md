@@ -4,7 +4,7 @@
 ## Welcome to the Hart Machine Learning Challenge
 
 
-You will find an IPython notebook here to use.
+You will find an IPython notebook here to use. https://github.com/Hart-Challenge/Hart-Learning-Intern/blob/master/Hart-Challenge.ipynb
 
 
 Please upload your solution to a Secret Gist @ gist.github.com
