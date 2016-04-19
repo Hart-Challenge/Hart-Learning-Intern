@@ -17,6 +17,7 @@ If you do not have IPython setup or do not know how use - https://wakari.io/ A w
 Or a Chrome Extension - https://chrome.google.com/webstore/detail/colaboratory-notebook/pianggobfjcgeihlmfhfgkfalopndooo?hl=en-US
 
 
+
 If you want to install locally - 
 
 https://jupyter-notebook-beginner-guide.readthedocs.org/en/latest/
@@ -24,4 +25,4 @@ https://jupyter-notebook-beginner-guide.readthedocs.org/en/latest/
 
 
 
-Have fun and Good Luck!
+### Have fun and Good Luck!
